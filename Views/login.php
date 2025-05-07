@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Iniciar Sesión</h1>
+        <h1>Iniciar Sesiónnn</h1>
         <?php if (isset($_GET['error'])): ?>
             <p style="color: red;">Email o contraseña incorrectos</p>
         <?php endif; ?>

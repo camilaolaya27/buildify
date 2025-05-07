@@ -62,6 +62,7 @@ $productos = $modelo->obtenerProductos();
             <?php endif; ?>
         </table>
     </div>
+    <a href="../marcas/index.php">Marcas</a>
 </body>
 
 </html>

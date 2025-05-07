@@ -54,5 +54,6 @@ $marcas = $modelo->obtenerMarcas();
             <?php endif; ?>
         </table>
     </div>
+    <a href="../productos/index.php">Productos</a>
 </body>
 </html>

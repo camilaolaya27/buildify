@@ -1,7 +1,7 @@
 <?php
-require_once __DIR__ . '/../Config/db.php';
+require_once __DIR__ . '/../../Config/db.php';
 
-class MarcaModel {
+class MarcasModel {
     private $conexion;
 
     public function __construct() {
